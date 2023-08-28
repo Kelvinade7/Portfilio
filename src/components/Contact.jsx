@@ -17,7 +17,9 @@ const Contact = () => {
             </div>                        
         </form>
         <br/>
+        <br/> <br/>
         <br/>
+
     </div>
   )
 }

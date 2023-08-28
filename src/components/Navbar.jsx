@@ -14,7 +14,7 @@ function Navbar({off}){
           <li id='list'><Link id='list' to="contact" spy={true} smooth={true} offset={-150} duration={500}>Contacts</Link></li>
         </ul>
       </div>
-      <div id='bar' onClick={off} >< FaBars/></div>
+      <div id='bar' onClick={off}  >< FaBars style={{marginLeft:'25px'}}/></div>
      
     </div>
   )

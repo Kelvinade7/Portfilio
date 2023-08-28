@@ -348,8 +348,9 @@
         font-size: 35px;
     }
     #home{
-        margin-top: 240px;
+        margin-top: 270px;
         height: 300px;
+        padding: 20px;
     }
     #about{
         padding: 20px;
@@ -396,6 +397,7 @@
     #about{
         text-align: left;
         padding: 20px;
+        margin-top: 90px;
     }
     .a-p{
         font-size: 23px;
@@ -413,7 +415,7 @@
         width: 85%;
     }
     #contact{
-        margin-top: 250px;
+        margin-top: 235px;
     }
     #me{
         width: 50%;

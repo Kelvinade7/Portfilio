@@ -20,7 +20,7 @@ const Nav = ({off}) => {
           </div>
           <center>
           <ul className='next'>
-          <li onClick={off} id='list'><Link id='list' onClick={off}  to="home" spy={true} smooth={true} offset={-150} duration={500}>Home</Link></li>
+          <li onClick={off} id='list'><Link id='list' onClick={off}  to="home" spy={true} smooth={true} offset={-290} duration={500}>Home</Link></li>
           <li onClick={off} id='list'><Link id='list' onClick={off}  to="about" spy={true} smooth={true} offset={-120} duration={500}>About</Link></li>
           <li onClick={off} id='list'><Link id='list' onClick={off}  to="skills" spy={true} smooth={true} offset={-120} duration={500}>Skills</Link></li>
           <li onClick={off} id='list'><Link id='list' onClick={off}  to="work" spy={true} smooth={true} offset={-120} duration={500}>Work</Link></li>
